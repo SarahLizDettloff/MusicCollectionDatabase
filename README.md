@@ -15,13 +15,13 @@ Album Cost <br\>
 <br\>
 <br\>
 
-# Features <br\>
+# Features 
 The first step in creating your own database is to run the Music Database Creationn. <br\>
 Once it is run in Python 3.6.1 then your database will be created. Now you are ready to insert the information! <br\>
 The second step is inserting the database. Run the MusicDatabaseInsertion to allow this feature. <br\>
 After this is completed, then you can select any information from the database that you need to obtain. <br\>
 
-# Installation <br\>
+# Installation 
 This application can be installed by using Python 3.6.1 and SQLite. <br\>
 To install Python 3.6.1, simply follow the instructions on the link below. <br\>
 https://www.python.org/downloads/release/python-361/
